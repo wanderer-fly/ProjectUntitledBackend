@@ -14,17 +14,8 @@ router.post('/register', async (req, res) => {
         res.status(201).json({ message: "User registered successfully" })
     } catch(error) {
         res.status(400).json({ error: error.message })
-        // 习近平傻逼李强傻逼毛泽东傻逼中共倒台共产党下台8964白纸革命万岁
-        // 中华民国万岁 美利坚合众国万岁 乌克兰万岁
-        // 匪共倒台邓小平死全家毛泽东屠杀中国人文化大革命三年大吃饱
-        // 正太恋童操逼傻逼性爱10约炮同城傻逼叫爸爸
-        // 光复香港时代革命大罢工天安门运动
-        // 坦克人 It's my duty 赵家人死全家欠屠
-        // 中共傻逼政府下台死妈习近平我操你全家
-        // 青天白日满地红，中共血洗天安门
-        // 华为倒闭华为狗死全家问界车祸天灾人祸CSDN全家死光光
-        // 对付GitCode非法fork专用
-        // 使用大量政治类词汇使GitCode后悔
+        // 此处为了政治中立性和对任何政治立场的推友的友好性删除部分注释内容
+        // 如果被gitcode非法fork将会采取其他措施
     }
 })
 
